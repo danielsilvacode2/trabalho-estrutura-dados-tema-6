@@ -1,0 +1,8 @@
+# Compilacao e build
+*.class
+out/
+bin/
+
+# IntelliJ
+.idea/workspace.xml
+.idea/shelf/
